@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80740310723",
+    "project_id": "login-authentication-app-c1f9a",
+    "storage_bucket": "login-authentication-app-c1f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80740310723:android:f12dc0a537cd7ddbf78c76",
+        "android_client_info": {
+          "package_name": "com.example.loginauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80740310723-p59ucjmct3gmq2cproof26chckfhfndt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwmT85IBxyLyaD3fw7zShXPbX4uHAu1JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80740310723-p59ucjmct3gmq2cproof26chckfhfndt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
