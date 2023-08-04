@@ -61,7 +61,7 @@ public class Register extends AppCompatActivity {
                     startActivity(new Intent(Register.this,Login.class));
                     finish();
                 }else{
-                    Toast.makeText(Register.this,"Not Successful",Toast.LENGTH_SHORT).show();
+                    Toast.makeText(Register.this,"Not Registered",Toast.LENGTH_SHORT).show();
                 }
             }
         });
